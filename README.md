@@ -1,4 +1,4 @@
-## <p align="center"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/shmVirus/asstes/main/hello.gif" width="30px"></p>
+## <p align="center"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/shmVirus/shmVirus/main/assets/hello.gif" width="30px"></p>
 
 I'm **Sabbir**, an undergraduate in CS at Green University of Bangladesh.
 - :man_technologist: &nbsp; Problem Solver, Linux Enthusiast
