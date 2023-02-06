@@ -11,7 +11,7 @@ I'm **Sabbir**, an undergraduate in CS at [Green University of Bangladesh](https
 <details>
  <summary><b>Github Stats</b></summary>
   <img alt="shmVirus/graph" width=100% src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shmVirus&amp;count_private=true&amp;theme=github_dark">
-  <img alt="shmVirus/stats" width="33%" src="https://github-readme-stats.vercel.app/api?username=shmVirus&amp;count_private=true&amp;theme=github_dark&amp;title_color=2EB398&amp;show_icons=true&amp;layout=compact">
-  <img alt="shmVirus/languages" width="33%" src="https://github-readme-stats.vercel.app/api/top-langs?username=shmVirus&amp;count_private=true&amp;theme=github_dark&amp;title_color=2EB398&amp;show_icons=true&amp;layout=compact">
-  <img alt="shmVirus/streak" width="33%" src="https://github-readme-streak-stats.herokuapp.com?user=shmVirus&amp;theme=dark&amp;hide_border=true&amp;background=1B2224&amp;stroke=718F97&amp;ring=2EB398&amp;fire=2EB398&amp;currStreakNum=C6CDCB&amp;sideNums=C6CDCB&amp;currStreakLabel=2EB398&amp;sideLabels=C6CDCB">
+  <img alt="shmVirus/stats" width="100%" src="https://github-readme-stats.vercel.app/api?username=shmVirus&amp;count_private=true&amp;theme=github_dark&amp;title_color=2EB398&amp;show_icons=true&amp;layout=compact">
+  <img alt="shmVirus/languages" width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=shmVirus&amp;count_private=true&amp;theme=github_dark&amp;title_color=2EB398&amp;show_icons=true&amp;layout=compact">
+  <img alt="shmVirus/streak" width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=shmVirus&amp;theme=dark&amp;hide_border=true&amp;background=1B2224&amp;stroke=718F97&amp;ring=2EB398&amp;fire=2EB398&amp;currStreakNum=C6CDCB&amp;sideNums=C6CDCB&amp;currStreakLabel=2EB398&amp;sideLabels=C6CDCB">
 </details>
