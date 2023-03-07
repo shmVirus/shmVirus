@@ -9,9 +9,26 @@ I'm **Sabbir**, an undergraduate in CS at [Green University of Bangladesh](https
 
 
 <details>
- <summary><b>Github Stats</b></summary>
+  <summary><b>Github Stats</b></summary>
   <img alt="shmVirus/graph" width=100% src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shmVirus&amp;count_private=true&amp;theme=github_dark&amp;hide_border=true">
   <img alt="shmVirus/stats" width="100%" src="https://github-readme-stats.vercel.app/api?username=shmVirus&amp;count_private=true&amp;theme=github_dark&amp;hide_border=true&amp;title_color=2EB398&amp;show_icons=true&amp;layout=compact">
   <img alt="shmVirus/languages" width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=shmVirus&amp;count_private=true&amp;theme=github_dark&amp;hide_border=true&amp;title_color=2EB398&amp;show_icons=true&amp;layout=compact">
   <img alt="shmVirus/streak" width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=shmVirus&amp;theme=github-dark&amp;hide_border=true&amp;stroke=718F97&amp;ring=2EB398&amp;fire=2EB398&amp;currStreakNum=C6CDCB&amp;sideNums=C6CDCB&amp;currStreakLabel=2EB398&amp;sideLabels=C6CDCB&amp;dates=C6CDCB">
+</details>
+<details>
+  <summary><b>WakaTime Stats</b></summary>
+  <details>
+    <summary>WakaGraphs</summary>
+    <p align="center">
+      <a href="https://wakatime.com/@shmVirus"> <img alt="waka/coding" align="center" width="400" height="300" src="https://wakatime.com/share/@shmVirus/c05f3e90-003d-4821-a573-5f387fe1954a.svg" /></a>
+      <a href="https://wakatime.com/@shmVirus"> <img alt="waka/languages" align="center" width="400" height="300" src="https://wakatime.com/share/@shmVirus/202515c2-e4b0-4a74-84aa-0a18df3ab1d1.svg" /></a>
+    </p>
+    <p align="center">
+      <a href="https://wakatime.com/@shmVirus"> <img alt="waka/editors" align="center" width="400" height="300" src="https://wakatime.com/share/@shmVirus/c2572c82-cd4e-4d48-af7b-4ce0cb752fe5.svg" /></a>
+      <a href="https://wakatime.com/@shmVirus"> <img alt="waka/os" align="center" width="400" height="300" src="https://wakatime.com/share/@shmVirus/4f0edd2c-7a2d-4afe-8ac6-fa54c8f60eb2.svg" /></a>
+    </p>
+  </details>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 </details>
