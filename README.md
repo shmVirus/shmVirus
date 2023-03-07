@@ -30,5 +30,55 @@ I'm **Sabbir**, an undergraduate in CS at [Green University of Bangladesh](https
   </details>
 
 <!--START_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-62.9%20thousand%20lines%20of%20code-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                54 commits          ██████████░░░░░░░░░░░░░░░   40.30 % 
+🌆 Daytime                47 commits          █████████░░░░░░░░░░░░░░░░   35.07 % 
+🌃 Evening                3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+🌙 Night                  30 commits          ██████░░░░░░░░░░░░░░░░░░░   22.39 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   22 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
+Tuesday                  40 commits          ███████░░░░░░░░░░░░░░░░░░   29.85 % 
+Wednesday                9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+Thursday                 12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+Friday                   11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+Saturday                 13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
+Sunday                   27 commits          █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Java** 
+
+```text
+Java                     2 repos             █████████████████░░░░░░░░   66.67 % 
+C++                      1 repo              ████████░░░░░░░░░░░░░░░░░   33.33 % 
+```
+
+
+
+
+ Last Updated on 2023-03-07 @13:32:44 UTC
 <!--END_SECTION:waka-->
 </details>
