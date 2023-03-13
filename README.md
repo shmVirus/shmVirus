@@ -7,7 +7,23 @@ I'm **Sabbir**, an undergraduate in CS at [Green University of Bangladesh](https
 - :male_sign: &nbsp; Pronouns: he/him/his
 - :zap: &nbsp; Fun Fact: sometimes I can't control laugh in serious moments!
 
-
+<details>
+  <summary><b>Tech Stack</b></summary>
+  <details>
+    <summary>Programming and Other Languages</summary>
+    <a href="https://github.com/search?l=C&q=user%3AshmVirus&type=code"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
+    <a href="https://github.com/search?l=C++&q=user%3AshmVirus&type=code"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
+    <a href="https://github.com/search?l=Java&q=user%3AshmVirus&type=code"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+    <a href="https://github.com/search?l=Assembly&q=user%3AshmVirus&type=code"><img alt="8086 Assembly" src="https://custom-icon-badges.demolab.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a>
+    <a href="https://github.com/search?l=Bash&q=user%3AshmVirus&type=code"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
+    <a href="https://github.com/search?l=Python&q=user%3AshmVirus&type=code"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+    <a href="https://github.com/search?l=SQL&q=user%3AshmVirus&type=code"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+    <a href="https://github.com/search?l=JavaScript&q=user%3AshmVirus&type=code"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="https://github.com/search?l=HTML&q=user%3AshmVirus&type=code"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+    <a href="https://github.com/search?l=Markdown&q=user%3AshmVirus&type=code"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
+    <a href="https://github.com/search?l=LaTeX&q=user%3AshmVirus&type=code"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
+  </details>
+</details>
 <details>
   <summary><b>Github Stats</b></summary>
   <a href="https://github.com/shmVirus"><img alt="shmVirus/graph" width=100% src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shmVirus&amp;count_private=true&amp;theme=github_dark&amp;hide_border=true"></a>
