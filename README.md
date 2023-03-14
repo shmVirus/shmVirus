@@ -10,7 +10,7 @@ I'm **Sabbir**, an undergraduate in CS at [Green University of Bangladesh](https
 <details>
   <summary><b>Tech Stack</b></summary>
   <details>
-    <summary>Programming and Other Languages</summary>
+    <summary>Languages</summary>
     <a href="https://github.com/search?l=C&q=user%3AshmVirus&type=code"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
     <a href="https://github.com/search?l=C++&q=user%3AshmVirus&type=code"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
     <a href="https://github.com/search?l=Java&q=user%3AshmVirus&type=code"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
