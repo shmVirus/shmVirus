@@ -4,7 +4,6 @@ I'm **Sabbir**, an undergraduate in CS at [Green University of Bangladesh](https
 - :man_technologist: &nbsp; Problem Solver, Linux Enthusiast
 - :question: &nbsp; Ask me about computer fundamentals
 - :eyes: &nbsp; I’m interested in back-end development
-- :male_sign: &nbsp; Pronouns: he/him/his
 - :zap: &nbsp; Fun Fact: sometimes I can't control laugh in serious moments!
 
 <details>
