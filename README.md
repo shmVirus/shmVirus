@@ -72,16 +72,16 @@ Sunday                   43 commits          ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C++                      1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-ProblemSolving           1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -96,6 +96,6 @@ Shell                    1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 2023-06-25 @20:12:46 UTC
+ Last Updated on 2023-06-26 @00:44:10 UTC
 <!--END_SECTION:waka-->
 </details>
