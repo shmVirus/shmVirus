@@ -72,16 +72,18 @@ Sunday                   88 commits          ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Dart                     47 mins             ███████████████████████░░   90.19 % 
+Bash                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   52 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+PracticeGround           47 mins             ███████████████████████░░   90.19 % 
+Unknown Project          5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    52 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -97,6 +99,6 @@ C++                      1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 2024-04-01 @20:12:36 UTC
+ Last Updated on 2024-04-02 @00:39:02 UTC
 <!--END_SECTION:waka-->
 </details>
