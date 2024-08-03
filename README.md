@@ -84,19 +84,19 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in Java** 
+**I Mostly Code in C++** 
 
 ```text
-Java                     2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Shell                    2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Dart                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-JavaScript               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Vim Script               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+C++                      2 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+Java                     2 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+Shell                    2 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+Dart                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+JavaScript               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
 ```
 
 
 
 
- Last Updated on 2024-08-03 @00:41:30 UTC
+ Last Updated on 2024-08-03 @04:13:02 UTC
 <!--END_SECTION:waka-->
 </details>
