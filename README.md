@@ -84,19 +84,19 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in C++** 
+**I Mostly Code in Dart** 
 
 ```text
-C++                      2 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+Dart                     2 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
 Java                     2 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
 Shell                    2 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-Dart                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
 JavaScript               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Vim Script               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
 ```
 
 
 
 
- Last Updated on 2024-08-11 @16:14:18 UTC
+ Last Updated on 2024-08-11 @20:15:08 UTC
 <!--END_SECTION:waka-->
 </details>
