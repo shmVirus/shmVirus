@@ -84,19 +84,19 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in Dart** 
+**I Mostly Code in Java** 
 
 ```text
-Dart                     2 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-Java                     2 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-Shell                    2 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-JavaScript               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Vim Script               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Java                     2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Shell                    2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Dart                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+JavaScript               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Vim Script               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
 ```
 
 
 
 
- Last Updated on 2024-08-16 @12:24:38 UTC
+ Last Updated on 2024-08-16 @16:15:17 UTC
 <!--END_SECTION:waka-->
 </details>
