@@ -45,7 +45,7 @@ I'm **Sabbir**, an undergraduate in CS at [Green University of Bangladesh](https
   </details>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-131.0%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-131.03%20thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
@@ -97,6 +97,6 @@ Dart                     1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 2026-01-01 @08:13:42 UTC
+ Last Updated on 2026-01-01 @12:17:17 UTC
 <!--END_SECTION:waka-->
 </details>
