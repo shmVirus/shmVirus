@@ -45,58 +45,21 @@ I'm **Sabbir**, an undergraduate in CS at [Green University of Bangladesh](https
   </details>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-268.60%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-272.63%20thousand%20lines%20of%20code-blue?style=flat)
 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                68 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
-🌆 Daytime                96 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
-🌃 Evening                402 commits         ██████████████████░░░░░░░   70.28 % 
-🌙 Night                  6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
-```
-📅 **I'm Most Productive on Monday** 
+**I Mostly Code in HTML** 
 
 ```text
-Monday                   91 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
-Tuesday                  74 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-Wednesday                82 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-Thursday                 85 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
-Friday                   80 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
-Saturday                 78 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-Sunday                   82 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-HTML                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Java                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Astro                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-SCSS                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+HTML                     3 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+JavaScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Java                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Astro                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+SCSS                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
 ```
 
 
 
 
- Last Updated on 2026-05-17 @16:41:22 UTC
+ Last Updated on 2026-05-17 @20:36:44 UTC
 <!--END_SECTION:waka-->
 </details>
