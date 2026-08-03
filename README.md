@@ -45,26 +45,26 @@ I'm **Sabbir**, an undergraduate in CS at [Green University of Bangladesh](https
   </details>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-482.53%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-594.07%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                72 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-🌆 Daytime                110 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
-🌃 Evening                430 commits         █████████████████░░░░░░░░   68.47 % 
-🌙 Night                  16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+🌞 Morning                77 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
+🌆 Daytime                117 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
+🌃 Evening                445 commits         █████████████████░░░░░░░░   66.82 % 
+🌙 Night                  27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   94 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
-Tuesday                  84 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-Wednesday                90 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-Thursday                 101 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
-Friday                   90 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-Saturday                 80 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
-Sunday                   89 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+Monday                   95 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
+Tuesday                  89 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+Wednesday                94 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+Thursday                 110 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
+Friday                   96 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+Saturday                 81 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+Sunday                   101 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
 ```
 
 
@@ -103,6 +103,6 @@ Shell                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2026-08-03 @01:19:24 UTC
+ Last Updated on 2026-08-03 @06:48:50 UTC
 <!--END_SECTION:waka-->
 </details>
