@@ -45,26 +45,26 @@ I'm **Sabbir**, an undergraduate in CS at [Green University of Bangladesh](https
   </details>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-594.07%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-627.78%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                77 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
-🌆 Daytime                117 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
-🌃 Evening                445 commits         █████████████████░░░░░░░░   66.82 % 
-🌙 Night                  27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+🌞 Morning                78 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+🌆 Daytime                117 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
+🌃 Evening                446 commits         █████████████████░░░░░░░░   66.77 % 
+🌙 Night                  27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   95 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
-Tuesday                  89 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
-Wednesday                94 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-Thursday                 110 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
-Friday                   96 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
-Saturday                 81 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
-Sunday                   101 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
+Monday                   96 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+Tuesday                  89 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+Wednesday                94 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
+Thursday                 110 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
+Friday                   96 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+Saturday                 81 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
+Sunday                   102 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
 ```
 
 
@@ -94,15 +94,15 @@ No AI Coding Activity Tracked This Week
 
 ```text
 HTML                     3 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-JavaScript               3 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+JavaScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
 Java                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
 SCSS                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
 ```
 
 
 
 
- Last Updated on 2026-08-16 @00:26:00 UTC
+ Last Updated on 2026-08-16 @04:22:25 UTC
 <!--END_SECTION:waka-->
 </details>
